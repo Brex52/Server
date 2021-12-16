@@ -1,0 +1,18 @@
+{
+  "name": "Server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@influxdata/influxdb-client": "^1.21.0",
+    "fastify": "^3.24.1",
+    "influxdb": "0.0.1",
+    "mqtt": "^4.2.8"
+  }
+}
